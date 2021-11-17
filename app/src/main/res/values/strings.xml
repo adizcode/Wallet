@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="deposit">Deposit</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="deposited_or_withdrawn_image">Image to represent whether the amount was deposited or withdrawn</string>
+</resources>
